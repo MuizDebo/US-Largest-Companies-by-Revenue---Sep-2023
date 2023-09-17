@@ -1,5 +1,5 @@
 # US Largest Companies by Revenue Sep 2023 (Analysis Brief)
-## Data Collection
+## Data Collection 
 In this code, I embark on a web scraping journey to retrieve valuable information from a specific webpage. The destination is a Wikipedia page titled "List of largest companies in the United States by revenue." Let's dive into the steps taken to accomplish this task.
 
 First, I start by defining the URL of the webpage I intend to scrape. This URL, 'https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue,' serves as our digital gateway to a treasure trove of data.
